@@ -1,0 +1,2 @@
+print("Hafiz")
+print("Waleed")
